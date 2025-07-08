@@ -1,0 +1,71 @@
+.primary_color{
+    background-color: #224388;
+}
+
+.secundary_color{
+    background-color: #f58c28;
+}
+
+.purple_color{
+    background-color: #8048af;
+}
+
+red_color{
+    background-color: #ff5959;
+}
+
+.green_color{
+    background-color: #6bc997;
+}
+
+.skyblue_color{
+    background-color: #37b4e3;
+}
+
+/*button*/
+
+.principal_button{
+    background-color: #f58c28; 
+    color: white;
+    border-radius: 0; 
+    font-size: 1.25rem;
+}
+
+
+
+/*spacing*/
+/* En tu CSS */
+.w-15 {
+    width: 15%;
+}
+
+.py-6 {
+    padding-top: 3.5rem ;
+    padding-bottom: 3.5rem;
+}
+
+.py-7 {
+    padding-top:4rem ;
+    padding-bottom: 4rem;
+}
+
+.py-8 {
+    padding-top:4.5rem ;
+    padding-bottom: 4.5rem;
+}
+
+.py-9 {
+    padding-top:5rem ;
+    padding-bottom: 5rem;
+}
+
+.py-10 {
+    padding-top:5.5rem ;
+    padding-bottom: 5.5rem;
+}
+  
+.py-11 {
+    padding-top:6rem ;
+    padding-bottom:6rem;
+}
+  
